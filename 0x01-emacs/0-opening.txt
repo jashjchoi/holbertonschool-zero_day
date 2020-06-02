@@ -1,1 +1,0 @@
-To open a file from within Emacs, use the command key: C-x C-f *filename*
